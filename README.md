@@ -20,44 +20,44 @@ Output will show a sorted list of articles with the most points to the less (tha
 _https://news.ycombinator.com/news?p=1
 https://news.ycombinator.com/news?p=2
 {'title': 'Elizabeth Holmes found guilty',
- 'url': 'https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html',
- 'votes': 666}
-{'title': 'Search engines and SEO spam',
- 'url': 'https://twitter.com/paulg/status/1477760548787920901',
- 'votes': 531}
+'url': 'https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html',
+'votes': 666}
+{'title': 'Search engines and SEO spam'
+'url': 'https://twitter.com/paulg/status/1477760548787920901',
+'votes': 531}
 {'title': 'Dura is a background process that watches your Git repositories',
- 'url': 'https://github.com/tkellogg/dura',
- 'votes': 366}
+'url': 'https://github.com/tkellogg/dura',
+'votes': 366}
 {'title': 'Vanta.js: Animated 3D backgrounds for websites',
- 'url': 'https://www.vantajs.com/',
- 'votes': 353}
+'url': 'https://www.vantajs.com/',
+'votes': 353}
 {'title': 'Using a mild Twitter addiction to get things done',
- 'url': 'https://nick.comer.io/post/ios-shortcuts',
- 'votes': 339}
+'url': 'https://nick.comer.io/post/ios-shortcuts',
+'votes': 339}
 {'title': 'Hacking a VW Golf Power Steering ECU',
- 'url': 'https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/',
- 'votes': 336}
+'url': 'https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/',
+'votes': 336}
 {'title': "Copyright doesn't need 95 years to get the job done",
- 'url': 'https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/',
- 'votes': 326}
+'url': 'https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/',
+'votes': 326}
 {'title': 'Compiling a Go program into a native binary for Nintendo Switch',
- 'url': 'https://ebiten.org/blog/native_compiling_for_nintendo_switch.html',
- 'votes': 324}
+'url': 'https://ebiten.org/blog/native_compiling_for_nintendo_switch.html',
+'votes': 324}
 {'title': 'Show HN: Clone your voice and speak a foreign language',
- 'url': 'https://coqui.ai/',
- 'votes': 307}
+'url': 'https://coqui.ai/',
+'votes': 307}
 {'title': 'Healthy soil is key to feeding the world',
- 'url': 'https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/',
- 'votes': 278}
+'url': 'https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/',
+'votes': 278}
 {'title': 'Ask HN: Who is hiring? (January 2022)',
- 'url': 'item?id=29782099',
- 'votes': 273}
+'url': 'item?id=29782099',
+'votes': 273}
 {'title': 'Ask HN: Why is there a chip shortage?',
- 'url': 'item?id=29781027',
- 'votes': 254}
+'url': 'item?id=29781027',
+'votes': 254}
 {'title': 'Lab Leak 2.0?',
- 'url': 'https://bprice.substack.com/p/lab-leak-20',
- 'votes': 247}
+'url': 'https://bprice.substack.com/p/lab-leak-20',
+'votes': 247}
 {'title': 'Poll: Which FAANG is the most likely to decline in the years ahead?',
  'url': 'item?id=29785046',
  'votes': 236}
